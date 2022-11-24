@@ -1,4 +1,4 @@
-# Computational Mehtods In Aerospace Engineering
+# Computational Methods In Aerospace Engineering
 
 This course is no longer available on [MIT Open Course Ware](https://ocw.mit.edu/)
 
