@@ -11,8 +11,8 @@ Each unit is composed of:
 
 **1.1 Overview**
 
-*   [1.1.1 Measurable Outcomes](1.1%20Overview#)
-*   [1.1.2 Pre-requisite Material](1.1%20Overview#1.2%20Discretizing%20ODEs.md)
+*   [1.1.1 Measurable Outcomes](1.1%20Overview.md#111-measurable-outcomes)
+*   [1.1.2 Pre-requisite Material](1.1%20Overview.md#112-pre-requisite-material)
 
 **1.2 Discretizing ODEs**
 
