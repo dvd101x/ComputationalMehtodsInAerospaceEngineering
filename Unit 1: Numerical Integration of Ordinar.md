@@ -16,11 +16,12 @@ Each unit is composed of:
 
 **1.2 Discretizing ODEs**
 
-*   [1.2.1 First-Order ODEs](../../contents/numerical-integration-of-ordinary-differential-equations/discretizing-odes/index.htm)
-*   [1.2.2 An Example of First Order ODE](../../contents/numerical-integration-of-ordinary-differential-equations/discretizing-odes/1690r-an-example-of-first-order-ode/index.htm)
-*   [1.2.3 Discretization](../../contents/numerical-integration-of-ordinary-differential-equations/discretizing-odes/1690r-discretization/index.htm)
-*   [1.2.4 The Forward Euler Method](../../contents/numerical-integration-of-ordinary-differential-equations/discretizing-odes/1690r-the-forward-euler-method/index.htm)
-*   [1.2.5 The Midpoint Method](../../contents/numerical-integration-of-ordinary-differential-equations/discretizing-odes/1690r-the-midpoint-method/index.htm)
+*   [1.2.1 First-Order ODEs](1.2%20Discretizing%20ODEs.md#121-first-order-odes
+)
+*   [1.2.2 An Example of First Order ODE](1.2%20Discretizing%20ODEs.md#122-an-example-of-first-order-ode)
+*   [1.2.3 Discretization](1.2%20Discretizing%20ODEs.md#123-discretization)
+*   [1.2.4 The Forward Euler Method](1.2%20Discretizing%20ODEs.md#124-the-forward-euler-method)
+*   [1.2.5 The Midpoint Method](1.2%20Discretizing%20ODEs.md#125-the-midpoint-method)
 
 **1.3 Order of Accuracy**
 
